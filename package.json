@@ -6,16 +6,22 @@
     "engines": {
         "vscode": "^1.59.0"
     },
+    "author": {
+        "name": "Yingfan Chen",
+        "email": "eric.chen6482@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yingfc/utopia_color_theme",
+        "type": "git"
+    },
     "categories": [
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "utopia",
-                "uiTheme": "vs-dark",
-                "path": "./themes/utopia-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "utopia",
+            "uiTheme": "vs-dark",
+            "path": "./themes/utopia-color-theme.json"
+        }]
     }
 }
