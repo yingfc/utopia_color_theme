@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.59.0"
     },
+    "publisher": "yingfc",
     "author": {
         "name": "yingfc",
         "email": "eric.chen6482@gmail.com"
