@@ -7,6 +7,7 @@
         "vscode": "^1.59.0"
     },
     "publisher": "yingfc",
+    "icon": "themes/utopia.png",
     "author": {
         "name": "yingfc",
         "email": "eric.chen6482@gmail.com"
