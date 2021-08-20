@@ -1,0 +1,21 @@
+{
+    "name": "yingfc",
+    "displayName": "utopia",
+    "description": "just a color theme :)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "utopia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/utopia-color-theme.json"
+            }
+        ]
+    }
+}
